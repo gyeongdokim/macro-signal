@@ -1,0 +1,9 @@
+# 데이터 캐시·결과물
+cache/
+backtest_result.csv
+
+# 파이썬 캐시
+__pycache__/
+
+# API 키
+.env
